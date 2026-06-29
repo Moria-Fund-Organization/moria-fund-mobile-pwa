@@ -1,1 +1,1 @@
-# moria-fund-mobile-pwa
+# moria-fund-mobile-pwa-demo
