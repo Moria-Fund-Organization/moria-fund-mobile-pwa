@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5a266be796650ecb8aabfa9aa80c0847",
+const RESOURCES = {"flutter_bootstrap.js": "1b4056e3f4e133777667238ec492a70a",
 "version.json": "6e1bbc7c77e0d799c65640cf442bd079",
 "index.html": "dc7ff1d9c27318dfbe4daa0857f2a5e1",
 "/": "dc7ff1d9c27318dfbe4daa0857f2a5e1",
-"main.dart.js": "c2bdd6ca516a663c0d8ff16087b9cc95",
+"main.dart.js": "164cd179249deda3ffebbb5ac25cfec7",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -290,7 +290,7 @@ const RESOURCES = {"flutter_bootstrap.js": "5a266be796650ecb8aabfa9aa80c0847",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "6dd1bb054cc6831e75945fae2460fd58",
-"assets/fonts/MaterialIcons-Regular.otf": "6d5498c898315e91cb9c88b0a15e4daf",
+"assets/fonts/MaterialIcons-Regular.otf": "08e9b8a7cd103c997e3593d98103bdcc",
 "assets/assets/images/temp/au_logo.png": "8c229230a9ad46ac1acc8ad2bd724be1",
 "assets/assets/images/temp/amar_bank_logo.png": "665f3747502efed86910a324bc21ebea",
 "assets/assets/images/splash_bg_top.png": "be783af8d43921937adcd91f0a627ca4",
