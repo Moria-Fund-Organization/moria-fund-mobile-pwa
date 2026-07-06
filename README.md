@@ -1,1 +1,1 @@
-# moria-fund-mobile-pwa-developement
+# moria-fund-mobile-pwa-stagging
