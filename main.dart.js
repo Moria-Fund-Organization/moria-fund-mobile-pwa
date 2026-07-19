@@ -36847,7 +36847,7 @@ hB(a){if(a==null)return null
 if(typeof a=="number")return B.e.cq(a)
 if(typeof a=="string")return A.hq(a,null)
 return null},
-mw(){return"mrf-"+B.l.jl(1000*Date.now(),36)+"-"+B.d.dP(B.l.jl($.bla().a86(0),36),7,"0")},
+mw(){return"mrf-"+B.l.jl(1000*Date.now(),36)+"-"+B.d.dP(B.l.jl($.bla().a86(4294967296),36),7,"0")},
 zS(a){var s
 $label0$0:{if("wallet"===a){s=A.d("menu_item_wallet")
 break $label0$0}if("savings"===a){s=A.d("menu_item_savings")
