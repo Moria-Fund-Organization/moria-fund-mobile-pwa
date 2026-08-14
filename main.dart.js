@@ -139225,7 +139225,7 @@ case 1:s="https://berbagi.bmh.or.id/campaign?item=qurban"
 break
 case 2:s="https://galeri24.co.id/produk/kategori/Emas%20Batangan"
 break
-case 3:s="https://hitrave.id/transaksi/paket-umrah/"
+case 3:s="https://hitrave.id/transaksi/paket-umrah"
 break
 default:s=null}return s}}
 A.auY.prototype={
